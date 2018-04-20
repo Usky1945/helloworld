@@ -1,6 +1,7 @@
 /*
 
 CopyRight
+extern int main3;
 
 */
 
