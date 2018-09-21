@@ -18,3 +18,4 @@ int main()
 
 int main_2();
 int main3;
+int main4;
