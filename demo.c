@@ -19,3 +19,5 @@ int main()
 int main_2();
 int main3;
 int main4;
+int main5;
+int main6;
