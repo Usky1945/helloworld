@@ -2,6 +2,8 @@
   init
 */
 
+//edit by master
+
 void init()
 {
 
